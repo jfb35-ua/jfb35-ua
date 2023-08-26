@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jfb35-ua
-- 👀 I’m interested in become a developer frontend.
+- 👀 I’m interested in become a developer backend.
 - 🌱 I’m currently learning java but I have good knowledge about c++, python, mars(ensamblador) and SQL.
 - 💞️ I’m looking to collaborate on some projects in order to get experience.
 - 📫 How to reach me:
